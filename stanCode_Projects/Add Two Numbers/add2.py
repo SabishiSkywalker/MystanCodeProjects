@@ -2,8 +2,7 @@
 File: add2.py
 Name: Jason Lee
 ------------------------
-TODO:
-"""
+
 
 import sys
 
