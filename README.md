@@ -19,7 +19,6 @@ Watch my *[DEMO VIDEO!](https://www.youtube.com/playlist?app=desktop&list=PL6FWN
   * data structure
 * [Boggle_game_solver](https://github.com/SabishiSkywalker/MystanCodeProjects/blob/main/stanCode_Projects/boggle_game_solver/boggle.py)
   * recursive function
-* [Anagram](https://github.com/SabishiSkywalker/MystanCodeProjects/blob/main/stanCode_Projects/anagram/anagram.py)
-  * backtracking 
+
 
    
